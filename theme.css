@@ -52,8 +52,9 @@ body{
 		font-family: Lobster;
 		position:fixed;
 		top:10px;
-		left:33%;
+	
 		background-color:white;
+		width: 100%;
 }
 
 
